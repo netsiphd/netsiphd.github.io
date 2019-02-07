@@ -12,7 +12,7 @@ or in person).
 1. Update `journal_club.md`. For consistency, it would be nice to follow
 Chicago author-date style when formatting the references to papers. Use
 bare links (`<link.com>`) for URLs and italicize journal titles. For arXiv
-papers, use the format `arXiv:$ID [subject]`, using the subject in boldface
+papers, use the format `arXiv:$ID [$subject]`, using the subject in boldface
 on the abstract page. **Use arXiv abs links, not pdf links.**
 2. Run `make`. You must have [pandoc](https://pandoc.org/) installed. I don't
 what minimum version is required, but prefer 2.0+.
