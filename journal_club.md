@@ -9,7 +9,7 @@ author:
 # Spring 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
  
-## February ??: Growing networks
+## February 15: Growing networks
 * Overgoor, Jan, Austin R. Benson, and Johan Ugander. 2018. “Choosing to Grow a Graph: Modeling Network Formation as Discrete Choice.” arXiv:1811.05008 [cs.SI]. <http://arxiv.org/abs/1811.05008>.
 
 # Fall 2018 
@@ -53,7 +53,7 @@ Organizer: [Ryan J. Gallagher](https://ryanjgallagher.github.io)
 Organizer: [Ryan J. Gallagher](https://ryanjgallagher.github.io)
 
 ## April 24: Twitter cascades
-* Goel, Sharad, Ashton Anderson, Jake Hofman, and Duncan J. Watts. 2015. “The Structural Virality of Online Diffusion.” *Management Science*, 180–96. <https://doi.org/10.1287/mnsc.2015.2158>.
+* Goel, Sharad, Ashton Anderson, Jake Hofman, and Duncan J. Watts. 2015. “The Structural Virality of Online Diffusion.” *Management Science* 62 (1), 180–96. <https://doi.org/10.1287/mnsc.2015.2158>.
 
 ## January 26: The scale-free networks debate
 * Broido, Anna D., and Aaron Clauset. 2018. “Scale-Free Networks Are Rare.” arXiv:1801.03400 [physics.soc-ph]. <http://arxiv.org/abs/1801.03400>.

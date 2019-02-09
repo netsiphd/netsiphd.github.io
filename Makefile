@@ -5,13 +5,6 @@ READMES = README.md
 ## All markdown files in the working directory
 SRC = $(filter-out $(READMES),$(wildcard *.$(MEXT)))
 
-## Location of your working bibliography file
-BIB = papers.bib
-
-## CSL stylesheet (located in the csl folder of the PREFIX directory).
-## CSL = american-political-science-association
-CSL = chicago-author-date-16th-edition
-
 HTML=$(SRC:.md=.html)
 
 all:	$(HTML)
