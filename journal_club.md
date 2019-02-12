@@ -9,8 +9,12 @@ author:
 # Spring 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
  
-## February 15: Growing networks
+## March 1: Growing networks
 * Overgoor, Jan, Austin R. Benson, and Johan Ugander. 2018. “Choosing to Grow a Graph: Modeling Network Formation as Discrete Choice.” arXiv:1811.05008 [cs.SI]. <http://arxiv.org/abs/1811.05008>.
+
+## February 15: Information-theoretic network comparison
+* De Domenico, Manlio, and Jacob Biamonte. 2016. “Spectral Entropies as Information-Theoretic Tools for Complex Network Comparison.” *Physical Review X* 6 (4). <https://doi.org/10.1103/PhysRevX.6.041062>.
+* Masuda, Naoki, and Petter Holme. 2019. “Detecting Sequences of System States in Temporal Networks.” *Scientific Reports* 9 (1). <https://doi.org/10.1038/s41598-018-37534-2>.
 
 # Fall 2018 
 Organizer: [Ryan J. Gallagher](https://ryanjgallagher.github.io)
