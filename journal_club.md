@@ -8,8 +8,12 @@ author:
 
 # Spring 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
+
+Time: Every other Friday, 3:00--4:00.
  
 ## March 1: Growing networks
+Note: this session will meet 3:30--4:30 to accommodate [Thomas Malone's talk at NetSI](https://www.networkscienceinstitute.org/events/thomas-w-malone).
+
 * Overgoor, Jan, Austin R. Benson, and Johan Ugander. 2018. “Choosing to Grow a Graph: Modeling Network Formation as Discrete Choice.” arXiv:1811.05008 [cs.SI]. <http://arxiv.org/abs/1811.05008>.
 
 ## February 15: Information-theoretic network comparison
