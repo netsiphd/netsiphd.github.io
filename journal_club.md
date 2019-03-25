@@ -11,7 +11,7 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Friday, 3:00--4:00.
 
-## March 29: The path not taken in community detection?
+## April 5: The path not taken in community detection?
 * Canright, Geoffrey S., and Kenth Engø-Monsen. 2005. “Epidemic Spreading Over Networks – A View from Neighbourhoods.” *Telektronikk* 101 (1): 65–85.
 * Fortunato, Santo. 2010. “Community Detection in Graphs.” *Physics Reports* 486 (3–5): 75–174. <https://doi.org/10.1016/j.physrep.2009.11.002>.
 
