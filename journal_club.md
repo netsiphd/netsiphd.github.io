@@ -11,10 +11,13 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Friday, 3:00--4:00.
 
+## March 29: The path not taken in community detection?
+* Canright, Geoffrey S., and Kenth Engø-Monsen. 2005. “Epidemic Spreading Over Networks – A View from Neighbourhoods.” *Telektronikk* 101 (1): 65–85.
+* Fortunato, Santo. 2010. “Community Detection in Graphs.” *Physics Reports* 486 (3–5): 75–174. <https://doi.org/10.1016/j.physrep.2009.11.002>.
+
 ## March 15: Threshold models of network contagion
 * Eckles, Dean, Elchanan Mossel, M. Amin Rahimian, and Subhabrata Sen. 2018. “Long Ties Accelerate Noisy Threshold-Based Contagions.” arXiv:1810.03579v2 [cs.SI]. <http://arxiv.org/abs/1810.03579v2>.
 * Juul, Jonas S., and Mason A. Porter. 2019. “Hipsters on Networks: How a Minority Group of Individuals Can Lead to an Antiestablishment Majority.” *Physical Review E* 99 (2). <https://doi.org/10.1103/PhysRevE.99.022313>.
- 
  
 ## March 1: Growing networks
 (with [Austin Benson](https://www.cs.cornell.edu/~arb/))
