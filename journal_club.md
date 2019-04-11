@@ -11,6 +11,11 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Friday, 3:00--4:00.
 
+## April 19: Information spreading
+* Canright, Geoffrey S., and Kenth Engø-Monsen. 2005. “Epidemic Spreading Over Networks – A View from Neighbourhoods.” *Telektronikk* 101 (1): 65–85.
+* Martin, Travis, Xiao Zhang, and M. E. J. Newman. 2014. “Localization and Centrality in Networks.” *Physical Review E* 90 (5): 052808. <https://doi.org/10.1103/PhysRevE.90.052808>.
+* Kitsak, Maksim, Lazaros K. Gallos, Shlomo Havlin, Fredrik Liljeros, Lev Muchnik, H. Eugene Stanley, and Hernán A. Makse. 2010. “Identification of Influential Spreaders in Complex Networks.” *Nature Physics* 6 (11): 888–93. <https://doi.org/10.1038/nphys1746>.
+
 ## April 5: The path not taken in community detection?
 * Canright, Geoffrey S., and Kenth Engø-Monsen. 2005. “Epidemic Spreading Over Networks – A View from Neighbourhoods.” *Telektronikk* 101 (1): 65–85.
 * Fortunato, Santo. 2010. “Community Detection in Graphs.” *Physics Reports* 486 (3–5): 75–174. <https://doi.org/10.1016/j.physrep.2009.11.002>.
