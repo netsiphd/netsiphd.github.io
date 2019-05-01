@@ -5,6 +5,13 @@ author:
 ...
 
 
+# Summer 2019
+Organizer: [Stefan McCabe](http://sdmccabe.github.io)
+
+Time: Every other Friday, 3:00--4:00
+
+## May 3: Temporal Validity
+* Munger, Kevin. 2019. “Knowledge Decays:  Temporal Validity in Online Social Science.” Working Paper. <https://osf.io/bka9z/>.
 
 # Spring 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
