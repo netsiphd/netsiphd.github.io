@@ -10,7 +10,11 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Friday, 3:00--4:00
 
-## May 3: Temporal Validity
+## May 17: Statistics of complex systems
+* Gerlach, Martin, and Eduardo G. Altmann. 2019. “Testing Statistical Laws in Complex Systems.” *Physical Review Letters* 122 (16): 168301. <https://doi.org/10.1103/PhysRevLett.122.168301>.
+
+
+## May 3: Temporal validity
 * Munger, Kevin. 2019. “Knowledge Decays:  Temporal Validity in Online Social Science.” Working Paper. <https://osf.io/bka9z/>.
 
 # Spring 2019
