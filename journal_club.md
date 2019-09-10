@@ -4,6 +4,13 @@ author:
 - name: Network Science Institute
 ...
 
+# Fall 2019
+Organizer: [Stefan McCabe](http://sdmccabe.github.io)
+
+Time: Every other Thursday, 2:00--3:00
+
+## September 19: Message passing
+* Cantwell, George T., and M. E. J. Newman. 2019. “Message Passing on Networks with Loops.” arXiv:1907.08252 [cs.SI]. <http://arxiv.org/abs/1907.08252>.
 
 # Summer 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
