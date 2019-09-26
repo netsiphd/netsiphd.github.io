@@ -9,6 +9,9 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Thursday, 2:00--3:00
 
+## October 3: Non-normal networks
+* Asllani, Malbor, Renaud Lambiotte, and Timoteo Carletti. 2018. “Structure and Dynamical Behavior of Non-Normal Networks.” *Science Advances* 4 (12): eaau9403. <https://doi.org/10.1126/sciadv.aau9403>.
+
 ## September 19: Message passing
 * Cantwell, George T., and M. E. J. Newman. 2019. “Message Passing on Networks with Loops.” arXiv:1907.08252 [cs.SI]. <http://arxiv.org/abs/1907.08252>.
 
