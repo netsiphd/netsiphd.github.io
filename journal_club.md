@@ -9,6 +9,10 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Thursday, 2:00--3:00
 
+## October 17: Machine learning and network science
+* Rodrigues, Francisco A., Thomas Peron, Colm Connaughton, Jurgen Kurths, and Yamir Moreno. 2019. “A Machine Learning Approach to Predicting Dynamical Observables from Network Structure.” arXiv:1910.00544 [physics.soc-ph]. <http://arxiv.org/abs/1910.00544>.
+
+
 ## October 3: Non-normal networks
 * Asllani, Malbor, Renaud Lambiotte, and Timoteo Carletti. 2018. “Structure and Dynamical Behavior of Non-Normal Networks.” *Science Advances* 4 (12): eaau9403. <https://doi.org/10.1126/sciadv.aau9403>.
 
