@@ -9,6 +9,10 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Thursday, 2:00--3:00
 
+## October 31: Transsortativity in networks
+* Wu, Xin-Zeng, Allon G. Percus, Keith Burghardt, and Kristina Lerman. 2019. “The Transsortative Structure of Networks.” arXiv:1910.09538 [physics.soc-ph]. <http://arxiv.org/abs/1910.09538>.
+* Altenburger, Kristen M., and Johan Ugander. 2018. “Monophily in Social Networks Introduces Similarity Among Friends-of-Friends.” *Nature Human Behaviour* 2 (4): 284–90. <https://doi.org/10.1038/s41562-018-0321-8>. (optional)
+ 
 ## October 17: Machine learning and network science
 * Rodrigues, Francisco A., Thomas Peron, Colm Connaughton, Jurgen Kurths, and Yamir Moreno. 2019. “A Machine Learning Approach to Predicting Dynamical Observables from Network Structure.” arXiv:1910.00544 [physics.soc-ph]. <http://arxiv.org/abs/1910.00544>.
 
