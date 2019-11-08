@@ -9,6 +9,9 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Thursday, 2:00--3:00
 
+## November 14: Network topology
+* Aktas, Mehmet E., Esra Akbas, and Ahmed El Fatmaoui. 2019. “Persistence Homology of Networks: Methods and Applications.” *Applied Network Science* 4 (1): 61. <https://doi.org/10.1007/s41109-019-0179-3>.
+
 ## October 31: Transsortativity in networks
 * Wu, Xin-Zeng, Allon G. Percus, Keith Burghardt, and Kristina Lerman. 2019. “The Transsortative Structure of Networks.” arXiv:1910.09538 [physics.soc-ph]. <http://arxiv.org/abs/1910.09538>.
 * Altenburger, Kristen M., and Johan Ugander. 2018. “Monophily in Social Networks Introduces Similarity Among Friends-of-Friends.” *Nature Human Behaviour* 2 (4): 284–90. <https://doi.org/10.1038/s41562-018-0321-8>. (optional)
