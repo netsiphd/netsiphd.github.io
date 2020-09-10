@@ -1,5 +1,5 @@
 ---
-title: "Modern Journal Club"
+title: "NetSI Journal Club"
 author: 
 - name: Network Science Institute
 ...
