@@ -9,6 +9,7 @@ Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Friday, 2:00--3:00
 
+Candidate Papers: [Link](https://docs.google.com/spreadsheets/d/1FLcFZIe3hWUjqh16UaG0FNilcZV4n7X1YjUBCoBzsJU/edit?usp=sharing)
 
 # Fall 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
