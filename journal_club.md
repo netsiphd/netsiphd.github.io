@@ -4,6 +4,12 @@ author:
 - name: Network Science Institute
 ...
 
+# Fall 2020
+Organizer: [Stefan McCabe](http://sdmccabe.github.io)
+
+Time: Every other Friday, 2:00--3:00
+
+
 # Fall 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
