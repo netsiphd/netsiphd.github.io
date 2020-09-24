@@ -11,10 +11,16 @@ Time: Every other Friday, 2:00--3:00
 
 Candidate Papers: [Link](https://docs.google.com/spreadsheets/d/1FLcFZIe3hWUjqh16UaG0FNilcZV4n7X1YjUBCoBzsJU/edit?usp=sharing)
 
+## September 25: The scale-free networks debate, re-reconsidered
+
+* Jacomy, Mathieu. 2020. “Epistemic Clashes in Network Science: Mapping the Tensions between Idiographic and Nomothetic Subcultures.” *Big Data & Society* 7 (2). <https://doi.org/10.1177/2053951720949577>.
+
+
 # Fall 2019
 Organizer: [Stefan McCabe](http://sdmccabe.github.io)
 
 Time: Every other Thursday, 2:00--3:00
+
 
 ## November 14: Network topology
 * Aktas, Mehmet E., Esra Akbas, and Ahmed El Fatmaoui. 2019. “Persistence Homology of Networks: Methods and Applications.” *Applied Network Science* 4 (1): 61. <https://doi.org/10.1007/s41109-019-0179-3>.
