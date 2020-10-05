@@ -14,7 +14,7 @@ Candidate Papers: [Link](https://docs.google.com/spreadsheets/d/1FLcFZIe3hWUjqh1
 ## October 9: Hierarchical community structure
 
 * Schaub, Michael T., and Leto Peel. 2020. “Hierarchical Community Structure in Networks.” arXiv:2009.07196 [cs.SI]. <http://arxiv.org/abs/2009.07196>.
-* Peel, Leto, and Michael T. Schaub. 2020. “Detectability of Hierarchical Communities in Networks.” ArXiv:2009.07525 [cs.SI]. <http://arxiv.org/abs/2009.07525>.
+* Peel, Leto, and Michael T. Schaub. 2020. “Detectability of Hierarchical Communities in Networks.” arXiv:2009.07525 [cs.SI]. <http://arxiv.org/abs/2009.07525>.
 
 ## September 25: The scale-free networks debate, re-reconsidered
 
