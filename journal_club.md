@@ -11,6 +11,10 @@ Time: Every other Friday, 2:00--3:00
 
 Candidate Papers: [Link](https://docs.google.com/spreadsheets/d/1FLcFZIe3hWUjqh16UaG0FNilcZV4n7X1YjUBCoBzsJU/edit?usp=sharing)
 
+## October 23: A detour into the social sciences
+
+* Zhao, Kino. Forthcoming. “Sample Representation in the Social Sciences.” _Synthese_. <https://doi.org/10.1007/s11229-020-02621-3>.
+
 ## October 9: Hierarchical community structure
 
 * Schaub, Michael T., and Leto Peel. 2020. “Hierarchical Community Structure in Networks.” arXiv:2009.07196 [cs.SI]. <http://arxiv.org/abs/2009.07196>.
